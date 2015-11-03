@@ -25,4 +25,5 @@ Seja cuidadoso com as palavras que escolher. Lembre-se de que piadas sexistas, r
 Se um participante se comportar de maneira que viole esse código de conduta, os organizadores poderão tomar ações que julgarem apropriadas para o momento, que incluem, mas não se limitam a advertir o ofensor ou expulsá-lo do evento sem qualquer reembolso de valores que tenham sido anteriormente pagos.
 
 Baseado em: https://www.mozillascience.org/code-of-conduct
+
 Licença: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
