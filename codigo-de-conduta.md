@@ -4,7 +4,7 @@ Os eventos desse grupo de estudos são realizados para incentivar a colaboraçã
 
 É exigido que todos participantes do grupo de estudo – instrutores, facilitadores, organizadores e membros – sigam esse código de conduta. Os organizadores aplicarão esse código por todos eventos, mas em caso de dúvidas e sugestões você sempre poderá entrar em contato conosco em particular; toda comunicação será tratada como confidencial.
 
-### Versão curta (The shorter version)
+### Versão curta
 
 - O grupo de estudos oferece uma experiência de aprendizagem livre de constrangimentos para todos, independente de gênero, orientação sexual, deficiência, aparência física, raça, cor ou religião. Nós não toleramos constrangimentos a participantes de qualquer forma.
 - Toda comunicação deve ser apropriada para um público profissional que inclui pessoas de diversas áreas e formações diferentes. Linguagem ou imagens sexuais não são apropriadas para qualquer evento.
@@ -14,7 +14,7 @@ Os eventos desse grupo de estudos são realizados para incentivar a colaboraçã
 
 Agradecemos por ajudar a tornar esses eventos acolhedores e amigáveis a todos.
 
-### Versão longa (The Longer Version)
+### Versão longa
 
 Constrangimentos incluem: comentários verbais ofensivos relativos ao gênero, orientação sexual, deficiência, aparência física, raça, cor, opiniões, ideologias ou religião; imagens sexuais exibidas em espaços públicos; intimidações deliberadas; perseguições; fotos ou gravações constrangedoras; interrupções prolongadas durante os eventos que não tenham contexto com o momento; contatos físicos inapropriados e atenções sexuais indesejáveis.
 
