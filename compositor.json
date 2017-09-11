@@ -1,0 +1,83 @@
+{
+  "name": "interaction-design-study-group/meetup",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "Interaction Design Study Group",
+  "branch": "",
+  "style": {
+    "name": "Brutalist",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BasicHeader",
+      "article": "article/MarkdownArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Consolas, \"Liberation Mono\", Menlo, Courier, monospace",
+    "heading": {},
+    "typeScale": [
+      48,
+      32,
+      20,
+      18,
+      16,
+      14,
+      12
+    ],
+    "layout": {
+      "maxWidth": 1024,
+      "fluid": true
+    },
+    "colors": {
+      "text": "#333",
+      "background": "#fff",
+      "primary": "#666",
+      "secondary": "#888",
+      "highlight": "#1f80ff",
+      "muted": "#f6f6f6",
+      "border": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/interaction-design-study-group/meetup",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "meetup",
+      "subhead": "Registro dos meetups do grupo de estudos.",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "meetup: Registro dos meetups do grupo de estudos.",
+          "url": ""
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "interaction-design-study-group",
+          "repo": "meetup"
+        }
+      ]
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/interaction-design-study-group/meetup",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/interaction-design-study-group",
+          "text": "interaction-design-study-group"
+        }
+      ]
+    }
+  ]
+}
